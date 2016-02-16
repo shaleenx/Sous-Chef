@@ -3,4 +3,4 @@ A stunning application that lets you look for recipes based on the ingredients y
 
 Expected roll out: 1st April 2016
 
-Visit us at: shaleenx.github.io/Sous-Chef/
+Visit us at: [shaleenx.github.io/Sous-Chef/]
